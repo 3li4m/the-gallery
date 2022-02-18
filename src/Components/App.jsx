@@ -2,7 +2,7 @@ import Header from "./Header";
 import Footer from "./Footer";
 import Home from "./Home"
 import About from "./About"
-import {BrowserRouter as Router, Route, Routes} from "react-router-dom";
+import {BrowserRouter as Router, Route, Routes, HashRouter} from "react-router-dom";
 
 function App(){
     return (
@@ -11,10 +11,10 @@ function App(){
 
                 <Router>
                     <Header/>
-                    <Routes>
+                    <HashRouter>
                         <Route path="/the-gallery/" element={<Home />}></Route>
                         <Route path="/the-gallery/about" element={<About />}></Route>
-                    </Routes>
+                    </HashRouter>
                 </Router>
                 
                 <Footer />
