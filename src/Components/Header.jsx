@@ -33,6 +33,8 @@ function Header(){
                     <NavLink to="/the-gallery/" activeClassName="active" onClick={hamburgerClick}>Home</NavLink>
                     <NavLink to="/the-gallery/about" activeClassName="active" onClick={hamburgerClick}>About</NavLink>
                 </nav> 
+
+
         </header>
         
         
