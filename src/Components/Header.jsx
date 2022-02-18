@@ -30,8 +30,8 @@ function Header(){
                     </div>
                 </nav>
                 <nav className={toggleHamburger ? "mobileNav isActive" : "mobileNav"}>
-                    <NavLink to="/" activeClassName="active" onClick={hamburgerClick}>Home</NavLink>
-                    <NavLink to="/About" activeClassName="active" onClick={hamburgerClick}>About</NavLink>
+                    <NavLink to="/photo-gallery/home" activeClassName="active" onClick={hamburgerClick}>Home</NavLink>
+                    <NavLink to="/photo-gallery/about" activeClassName="active" onClick={hamburgerClick}>About</NavLink>
                 </nav> 
 
 
