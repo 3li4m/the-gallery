@@ -340,12 +340,13 @@ h1{
 }
 /* For Local Device Changes END */
 
+/* For Github Pages Changes Start */
 .css-1bfr02t{
     background-color: rgb(196, 233, 245) !important;
     border-bottom: 1px solid #000033 !important;
     transition: .5s ease-in-out !important;
 }
-.css-1bfr02t.Mui:hover{
+.css-1bfr02t:hover{
     background-color: #b21c58 !important;
     border-bottom: 1px solid #000033 !important;
     transition: .5s ease-in-out !important;
@@ -361,7 +362,7 @@ h1{
     border-bottom: 1px solid #b21c58 !important;
     transition: .5s ease-in-out !important;
 }
-
+/* For Github Pages Changes END */
 
 
 /* Switch Start */
