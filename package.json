@@ -1,6 +1,6 @@
 {
   "homepage": "https://3li4m.github.io/the-gallery",
-  "name": "photo-gallery",
+  "name": "the-gallery",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
