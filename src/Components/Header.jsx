@@ -17,8 +17,8 @@ function Header(){
                     <div className="navContainer">
                         <h1>The Gallery</h1>
                         <div className="navMenu">
-                            <NavLink to="/home" activeClassName="active">Home</NavLink>
-                            <NavLink to="/about" activeClassName="active">About</NavLink>
+                            <NavLink to="/photo-gallery/home" activeClassName="active">Home</NavLink>
+                            <NavLink to="/photo-gallery/about" activeClassName="active">About</NavLink>
                         </div>
                         <div>
                             <button className={toggleHamburger ? "navHamburger is-Active" : "navHamburger"} onClick={hamburgerClick}>
