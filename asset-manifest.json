@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/photo-gallery/static/js/main.ac3cabf5.js",
+    "main.js": "/photo-gallery/static/js/main.9bb27387.js",
     "index.html": "/photo-gallery/index.html",
-    "main.ac3cabf5.js.map": "/photo-gallery/static/js/main.ac3cabf5.js.map"
+    "main.9bb27387.js.map": "/photo-gallery/static/js/main.9bb27387.js.map"
   },
   "entrypoints": [
-    "static/js/main.ac3cabf5.js"
+    "static/js/main.9bb27387.js"
   ]
 }
