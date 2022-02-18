@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/photo-gallery/home/static/js/main.cc567edb.js",
-    "index.html": "/photo-gallery/home/index.html",
-    "main.cc567edb.js.map": "/photo-gallery/home/static/js/main.cc567edb.js.map"
+    "main.js": "/photo-gallery/static/js/main.cc567edb.js",
+    "index.html": "/photo-gallery/index.html",
+    "main.cc567edb.js.map": "/photo-gallery/static/js/main.cc567edb.js.map"
   },
   "entrypoints": [
     "static/js/main.cc567edb.js"
