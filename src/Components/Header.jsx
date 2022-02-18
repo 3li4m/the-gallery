@@ -17,8 +17,8 @@ function Header(){
                     <div className="navContainer">
                         <h1>The Gallery</h1>
                         <div className="navMenu">
-                            <NavLink to="/home" activeClassName="active">Home</NavLink>
-                            <NavLink to="/about" activeClassName="active">About</NavLink>
+                            <NavLink to="/the-gallery/home" activeClassName="active">Home</NavLink>
+                            <NavLink to="/the-gallery/about" activeClassName="active">About</NavLink>
                         </div>
                         <div>
                             <button className={toggleHamburger ? "navHamburger is-Active" : "navHamburger"} onClick={hamburgerClick}>
@@ -30,8 +30,8 @@ function Header(){
                     </div>
                 </nav>
                 <nav className={toggleHamburger ? "mobileNav isActive" : "mobileNav"}>
-                    <NavLink to="/home" activeClassName="active" onClick={hamburgerClick}>Home</NavLink>
-                    <NavLink to="/about" activeClassName="active" onClick={hamburgerClick}>About</NavLink>
+                    <NavLink to="/the-gallery/home" activeClassName="active" onClick={hamburgerClick}>Home</NavLink>
+                    <NavLink to="/the-gallery/about" activeClassName="active" onClick={hamburgerClick}>About</NavLink>
                 </nav> 
 
 
