@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/the-gallery/static/js/main.b2363cd0.js",
+    "main.js": "/the-gallery/static/js/main.efd15126.js",
     "index.html": "/the-gallery/index.html",
-    "main.b2363cd0.js.map": "/the-gallery/static/js/main.b2363cd0.js.map"
+    "main.efd15126.js.map": "/the-gallery/static/js/main.efd15126.js.map"
   },
   "entrypoints": [
-    "static/js/main.b2363cd0.js"
+    "static/js/main.efd15126.js"
   ]
 }
