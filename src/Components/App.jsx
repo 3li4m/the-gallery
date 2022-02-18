@@ -7,10 +7,10 @@ import {BrowserRouter as Router, Route, Routes} from "react-router-dom";
 function App(){
     return (
         <div>
-            <Router>
+            <Router basename="/the-gallery/">
                 <Header/>
                 <Routes>
-                    <Route path="/the-gallery" element={<Home />}></Route>
+                    <Route path="/the-gallery/" element={<Home />}></Route>
                     <Route path="/the-gallery/about" element={<About />}></Route>
                 </Routes>
             </Router>
