@@ -7,7 +7,7 @@ import {BrowserRouter as Router, Route, Routes} from "react-router-dom";
 function App(){
     return (
         <div>
-            <Router basename="">
+            <Router basename="/the-gallery/">
                 <Header/>
                 <Routes>
                     <Route path="/the-gallery/" element={<Home />}></Route>
