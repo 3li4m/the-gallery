@@ -1,6 +1,6 @@
 {
-  "homepage": "https://3li4m.github.io/Home",
-  "name": "photo-viewer",
+  "homepage": "https://3li4m.github.io/photo-gallery",
+  "name": "photo-gallery",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
