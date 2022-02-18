@@ -16,10 +16,6 @@ h1{
     color: #000033;
 }
 
-hr{
-
-}
-
 .navContainer h1{
     color: #FAF9F6;
     font-size: 2rem;
@@ -325,12 +321,33 @@ hr{
     max-width: 1000px;
 }
 
-.css-s1jfdj-MuiButtonBase-root-MuiPaginationItem-root.Mui-selected{
+/* .css-s1jfdj-MuiButtonBase-root-MuiPaginationItem-root.Mui-selected{
     background-color: #000033 !important;
     transition: 0.5s ease-in-out;
 }
 .css-s1jfdj-MuiButtonBase-root-MuiPaginationItem-root.Mui-selected:hover{
     background-color: #000033 !important;
+}
+.css-s1jfdj-MuiButtonBase-root-MuiPaginationItem-root{
+    background-color: rgb(196, 233, 245) !important;
+    border-bottom: 1px solid #000033 !important;
+    transition: .5s ease-in-out !important;
+}
+.css-s1jfdj-MuiButtonBase-root-MuiPaginationItem-root:hover{
+    background-color: #b21c58 !important;
+    border-bottom: 1px solid #000033 !important;
+    color: white;
+} */
+
+.css-1bfr02t{
+    background-color: #b21c58 !important;
+    border-bottom: 1px solid #000033 !important;
+    transition: .5s ease-in-out !important;
+}
+.css-1bfr02t.Mui:hover{
+    background-color: #b21c58 !important;
+    border-bottom: 1px solid #000033 !important;
+    transition: .5s ease-in-out !important;
 }
 
 .css-1bfr02t.Mui-selected{
@@ -344,16 +361,7 @@ hr{
     transition: .5s ease-in-out !important;
 }
 
-.css-s1jfdj-MuiButtonBase-root-MuiPaginationItem-root{
-    background-color: rgb(196, 233, 245) !important;
-    border-bottom: 1px solid #000033 !important;
-    transition: .5s ease-in-out !important;
-}
-.css-s1jfdj-MuiButtonBase-root-MuiPaginationItem-root:hover{
-    background-color: #b21c58 !important;
-    border-bottom: 1px solid #000033 !important;
-    color: white;
-}
+
 
 /* Switch Start */
 
