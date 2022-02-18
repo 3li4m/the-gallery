@@ -17,7 +17,7 @@ function Header(){
                     <div className="navContainer">
                         <h1>The Gallery</h1>
                         <div className="navMenu">
-                            <NavLink to="/photo-gallery" activeClassName="active">Home</NavLink>
+                            <NavLink to="/photo-gallery/home" activeClassName="active">Home</NavLink>
                             <NavLink to="/photo-gallery/about" activeClassName="active">About</NavLink>
                         </div>
                         <div>
