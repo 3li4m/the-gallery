@@ -7,7 +7,7 @@ import {BrowserRouter as Router, Route, Routes, HashRouter } from "react-router-
 function App(){
     return (
         <div>
-            <Router basename="/the-gallery/">
+            <Router >
                 <Header/>
                 <Routes>
                     <Route path="/the-gallery/" element={<Home />}></Route>
