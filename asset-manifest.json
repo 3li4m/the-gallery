@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/the-gallery/static/js/main.fa3ca907.js",
-    "index.html": "/the-gallery/index.html",
-    "main.fa3ca907.js.map": "/the-gallery/static/js/main.fa3ca907.js.map"
+    "main.js": "/static/js/main.fa3ca907.js",
+    "index.html": "/index.html",
+    "main.fa3ca907.js.map": "/static/js/main.fa3ca907.js.map"
   },
   "entrypoints": [
     "static/js/main.fa3ca907.js"
