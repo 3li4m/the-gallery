@@ -12,11 +12,14 @@ const About = () => {
             <hr />
             <br />
             <h3>I am a developer and music lover! From Australia who lives to design and develop/create new things be it in 
-                IT or Robotics, Electronics or Music
+                IT, Robotics, Electronics or Music.
             </h3>
             <br />
-            <p>I have a range of experience in diffrient technologies but find my self to be strong 
-                with c#, python, java, and web technologies</p>
+            <p>I have a range of experience in diffrient technologies such as c#, python, and JavaScript and web technologies to create interactive and innovative
+                products to improve the experience and convenience of everyday users.
+            </p>
+            <p>In my free time I like to to produce Electronic music, Go for hikes and bouldering.
+            </p>
             <div className="faHandler">
                 <a href="https://github.com/3li4m" ><i class="fa-class fa-brands fa-github"></i></a>
                 <a href = "mailto: contacteliea@gmail.com" ><i class="fa-class fa-solid fa-envelope-open"></i></a>
