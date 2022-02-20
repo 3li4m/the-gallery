@@ -485,19 +485,6 @@ input:checked + .slider::before{
 }
 
 .model img{
-    /* Modify these numbers for different devices  */
-
-
-    /* SMALLER SCREEN
-        max-height: 250px;
-        max-width: 370px; 
-    */
-    /* IOS
-        max-height: 450px;
-        max-width: 370px; 
-    */
-    
-    /*  */
     width: 100%;
     line-height: 0;
     box-sizing: border-box;
@@ -769,7 +756,7 @@ th, td{
         font-size: .8rem;
     }
     .switchContainerSmallerImages{
-        display: none;
+        display: none !important;
     }
 }
 
