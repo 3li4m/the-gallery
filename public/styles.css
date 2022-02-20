@@ -768,6 +768,9 @@ th, td{
     .aboutInfo{
         font-size: .8rem;
     }
+    .switchContainerSmallerImages{
+        display: none;
+    }
 }
 
 @media (max-width: 500px){

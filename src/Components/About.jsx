@@ -15,8 +15,9 @@ const About = () => {
                 IT, Robotics, Electronics or Music.
             </h3>
             <br />
-            <p>I have a range of experience in diffrient technologies such as c#, python, and JavaScript and web technologies to create interactive and innovative
-                products to improve the experience and convenience of everyday users.
+            <p>
+                I find my self digging into different technologies such as c#, python, JavaScript and web technologies to create interactive and innovative
+                products/projects. 
             </p>
             <div className="faHandler">
                 <a href="https://github.com/3li4m" ><i class="fa-class fa-brands fa-github"></i></a>
