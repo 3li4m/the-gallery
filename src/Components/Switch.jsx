@@ -20,7 +20,7 @@ const Switch = ({isOCDToggled, onOCDToggle, isSmallImgToggled, onSmallImgToggle}
                     <span className="slider" />
 
                 </label>
-                <p>Smaller Images On Zoom</p>
+                <p>Display Smaller Images When Clicked</p>
             </div>
         </div>
     )
