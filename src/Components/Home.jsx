@@ -12,7 +12,7 @@ const Home = () => {
 
     const fetchData = async(page) =>{
         setloading(true)
-        const accessKey = "8tHvA5WGRwwnuqNl-n7iK5cd04w7cQENm1plM-qxKHU";
+        const accessKey = process.env.REACT_APP_ACCESSKEY;
         const response = await axios.get(`https://api.unsplash.com/photos/?client_id=${accessKey}&page=${page}&per_page=12`);
         const data = await response.data;
         setImages(data);
