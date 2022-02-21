@@ -1,5 +1,3 @@
-import React from "react";
-
 // Turn off scrolling on body when modal is displayed
 const turnOffBodyScrolling = (target) => {
     if (target === true){

@@ -5,7 +5,6 @@ function Header(){
     const  [toggleHamburger, setHamburgerToggle] = useState(false);
     
     const hamburgerClick = () => {
-        // setHamburgerToggle(!toggle);
         toggleHamburger ? setHamburgerToggle(false) : setHamburgerToggle(true);
     }
 
